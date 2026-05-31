@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "GmarketSansBold";
+  src: url("/fonts/GmarketSansBold.otf") format("opentype");
+  font-style: normal;
+  font-display: swap;
+}
+
+* {
+  font-family: "GmarketSansBold", sans-serif;
+}
